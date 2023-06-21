@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginAndShow</string>
+    <string name="name_tag">用户名:</string>
+    <string name="pwd_tag">密码:</string>
+    <string name="username_hint">Please input your username.</string>
+    <string name="pwd_hint">Please input your password.</string>
+    <string name="login">登录</string>
+</resources>
